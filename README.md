@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manuela.
+- 👋 Hi, I’m Manuela. Need to make a change to compare later.
 - 👀 I’m interested in translation and both student/adult education.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on educational resources/projects.
